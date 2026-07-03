@@ -3,7 +3,7 @@ Piezoelectric Smart Material Sensor Log Clean-up
 
 Loads, validates, cleans, plots, and saves voltage sensor data.
 """
-
+#Updated documentation
 import argparse
 import pandas as pd
 import matplotlib.pyplot as plt
